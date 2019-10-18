@@ -1,0 +1,8 @@
+usuario: cachupin
+contraseña: duoc12
+
+integrantes:
+makarena parra
+rene quelempan
+
+entorno virtual : wpf
